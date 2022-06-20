@@ -1,0 +1,8 @@
+Autext is an audio and text converter website built with the help of APIs.
+
+to run this project, download xampp server,
+save the text and audio proejct file in ThisPC/xampp/htdocs
+
+start Apache module in xammp server
+
+in the browser enter the file path to index.php, http://localhost/text-and-audio/index.php
